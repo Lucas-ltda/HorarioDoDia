@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-color: rgb(70, 142, 236);
+    font: normal 20 px arial;
+}
+
+header{
+    
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.363);
+    
+}
+div{
+    text-align: center;
+}
+div#foto{
+    margin-top: 10px;
+}
+
+footer{
+    color: rgb(72, 71, 71);
+    text-align: center;
+}
